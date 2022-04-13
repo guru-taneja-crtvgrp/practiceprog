@@ -18,7 +18,7 @@ public:
 };
 void shop::get_item(void)
 {
-	cout << "enter item number:" << endl;
+	cout << "enter item number here:" << endl;
 	cin >> item_number[count];
 	cout << "enter item cost:" << endl;
 	cin >> item_price[count];
