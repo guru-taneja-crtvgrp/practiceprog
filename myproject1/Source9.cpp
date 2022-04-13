@@ -17,7 +17,7 @@ void class_1::get_data(void)
 }
 void class_1::disp_data(void)
 {
-	cout << "data for class1:" << c1_data << endl;
+	cout << "entered data for class1:" << c1_data << endl;
 }
 class class_2
 {
