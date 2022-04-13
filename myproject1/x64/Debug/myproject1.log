@@ -1,0 +1,3 @@
+﻿  Source10.cpp
+E:\c++ practice\myproject1\Source10.cpp(39,12): warning C4101: 'mobj2': unreferenced local variable
+  myproject1.vcxproj -> E:\c++ practice\myproject1\x64\Debug\myproject1.exe
