@@ -12,7 +12,7 @@ public:
 };
 void record::get_data(void)
 {
-	cout << "enter student name name:";
+	cout << "enter student name:";
 	cin >> name;
 	cout << "enter student roll num:";
 	cin >> roll_num;
