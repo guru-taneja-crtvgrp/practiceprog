@@ -17,7 +17,7 @@ void deposit::get_amount(void)
 }
 void deposit::display_total(void)
 {
-	cout << "total deposited amount by all is:" << total_amount << endl;
+	cout << "total deposited of amount by all is:" << total_amount << endl;
 }
 void deposit::total_sum(deposit a, deposit b)
 {
