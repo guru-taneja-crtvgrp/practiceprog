@@ -5,7 +5,7 @@ int main()
 {
 	char ch;
 	int in;
-	cout << "enter your character:";
+	cout << "enter your your character:";
 	cin >> ch;
 	in = ch;
 	cout << "ascii value of " <<ch <<" is:" <<in <<endl;
