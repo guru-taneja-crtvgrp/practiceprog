@@ -11,7 +11,7 @@ public:
 void temprature::disp_data(void)
 {
 
-	cout << "temp in celsius is:" <<(temp_value-32)*5/float(9) <<endl;
+	cout << "temprature in celsius is:" <<(temp_value-32)*5/float(9) <<endl;
 }
 void temprature::get_data(void)
 {
