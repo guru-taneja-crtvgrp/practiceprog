@@ -15,7 +15,7 @@ void temprature::disp_data(void)
 }
 void temprature::get_data(void)
 {
-	cout << "enter temp in farhenheit:";
+	cout << "enter temprature in farhenheit:";
 	cin >> temp_value;
 }
 int main()
